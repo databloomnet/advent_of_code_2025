@@ -26,4 +26,6 @@ pip-wheel-metadata/
 .env
 test*.py
 pages/archived-pages/
+~$*
+*.xlsx
 
